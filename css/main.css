@@ -75,9 +75,9 @@ img:nth-child(5) {
 
 @media only screen and (min-width: 60em) {
 
- img {
-   float: left;
-   max-width: 33.3%;
+  img {
+    float: left;
+    max-width: 33.3%;
   }
 
   img:nth-child(1) {
