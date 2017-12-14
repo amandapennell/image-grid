@@ -77,11 +77,11 @@ img:nth-child(5) {
 
   img {
     float: left;
-    max-width: 33.3%;
+    max-width: 33.3333%;
   }
 
   img:nth-child(1) {
-    max-width: 66.6%;
+    max-width: 66.6666%;
   }
 
   img:nth-child(2) {
