@@ -32,3 +32,31 @@ img:nth-child(2) {
 img:nth-child(5) {
   display: none;
 }
+
+@media only screen and (min-width: 25em) {
+
+  img {
+    float: left;
+    max-width: 50%;
+  }
+
+  img:nth-child(1) {
+    max-width: 100%;
+  }
+
+  img:nth-child(2) {
+    display: block;
+  }
+
+  img:nth-child(5) {
+    display: block;
+  }
+}
+
+@media only screen and (min-width: 38em) {
+
+}
+
+@media only screen and (min-width: 60em) {
+
+}
